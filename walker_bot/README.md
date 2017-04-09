@@ -1,7 +1,7 @@
 # WalkerBot
 > Four-legged walking robot using Arduino and servo motors
 
-An excellent intermidate project for Arduino hobbiest and students. 
+An excellent intermediate project for Arduino hobbiest and students. 
 
 ![](walkerbot.jpg)
 
